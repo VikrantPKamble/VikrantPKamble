@@ -31,7 +31,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikrantpkamble&show_icons=true&locale=en&layout=compact" alt="vikrantpkamble" /></p>
-
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikrantpkamble&show_icons=true&locale=en" alt="vikrantpkamble" /></p>
-
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikrantpkamble&" alt="vikrantpkamble" /></p>
