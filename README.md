@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4E12AQHohaaJm6qNNw/article-cover_image-shrink_423_752/0/1630526455370?e=1720051200&v=beta&t=hq2gpuwCpdCd7D479ox8Sar6A0eslVR0uDsCWp5taDI)](https://vikrantpkamble.github.io)
+[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://vikrantpkamble.github.io)
 <h1 align="center">Hi 👋, I'm Vikrant Kamble</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
