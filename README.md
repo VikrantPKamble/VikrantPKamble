@@ -1,5 +1,5 @@
-[![MasterHead](https://private-user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzMjA3NjUsIm5iZiI6MTcxMzMyMDQ2NSwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4MzQtNzI5MDMzMjQtY2Y1Ny00ZTkwLTgwYTYtZWQzYzk3MzRlMGVkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE3VDAyMjEwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVjMDVhMmYxY2I3NjQzOGRjNDFhZDRkMTkzYTljODZiNGRkN2UwMDY5ZTU1NWU5YzM4YmE1ZWJhNDdjMmMxNzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ajlxCpKxi2UzM0MWsrv1Caq1VHTDSwdTJgpMtXEAb6Y)](https://vikrantpkamble.github.io)
-<h1 align="center">Hi 👋, I'm Vikrant P. Kamble</h1>
+[![MasterHead](https://media.licdn.com/dms/image/C4E12AQHohaaJm6qNNw/article-cover_image-shrink_423_752/0/1630526455370?e=1720051200&v=beta&t=hq2gpuwCpdCd7D479ox8Sar6A0eslVR0uDsCWp5taDI)](https://vikrantpkamble.github.io)
+<h1 align="center">Hi 👋, I'm Vikrant Kamble</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
